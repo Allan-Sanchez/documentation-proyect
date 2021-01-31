@@ -1,0 +1,19 @@
+{
+  "name": "documentation-proyects",
+  "version": "0.0.1",
+  "description": "personal documentation proyects",
+  "main": "index.js",
+  "authors": {
+    "name": "Allan Sanchez",
+    "email": "asanchezrixtun@gmail.com"
+  },
+  "repository": "/documentation-proyects",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
