@@ -28,7 +28,7 @@ Packages needed to start working with this technology
 6. create script dev
 7. `"dev": "nodemon --exec ts-node src/index.ts"`
 
-:::
+::: tip
 Here is the example with the repository [GITHUB]("https://github.com/Allan-Sanchez/api-rest-type-orm-graphql")
 :::
 
@@ -59,7 +59,7 @@ API created with typescript and mongoose using graphql-tools and apollo-server-e
 5.  `change rootDir `
 6.  `change package.json dev nodemon src/main.ts --exec ts-node src/main.ts -e ts,graphql`
 
-:::
+::: tip
 Here is the example with the repository [GITHUB]("https://github.com/Allan-Sanchez/crud-typescript-graphql")
 :::
 
@@ -95,6 +95,6 @@ Here is the example with the repository [GITHUB]("https://github.com/Allan-Sanch
     npm i express apollo-server-express graphql graphql-import-node graphql-tools dotenv 
 
 ```
-:::
+::: tip
 Here is the example with the repository [GITHUB]("https://github.com/Allan-Sanchez/")
 :::
